@@ -1,18 +1,18 @@
-#Cardiovascular-Risk-Prediction
-##Objective
+#**Cardiovascular-Risk-Prediction**
+##**Objective**
 
 This project addresses a classification problem that deals with predicting whether a patient has a 10-year risk of future coronary heart disease (CHD).
 
-##Dataset
+**Dataset**
 
 The dataset is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.
 
-##Variables
+**Variables**
 
 Each attribute is a potential risk factor. There are both demographic, behavioral, and medical risk factors.
 Data Description
 
-###Demographic:
+**Demographic:**
 
 • Sex: male or female("M" or "F") • Age: Age of the patient;(Continuous - Although the recorded ages have been truncated to whole numbers, the concept of age is continuous)
 
